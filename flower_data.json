@@ -1,0 +1,618 @@
+[
+    {
+        "Sun Needs": "Partial Shade",
+        "Soil Needs": "Well-drained",
+        "Zones": "4 - 9",
+        "Height": "0.25 - 0.5 feet",
+        "Blooms in": "Early Spring",
+        "Features": "Deer resistant"
+    },
+    {
+        "Sun Needs": "Full Sun/Partial Shade",
+        "Soil Needs": "Well-drained",
+        "Zones": "5 - 9",
+        "Height": "0.5 - 2 feet",
+        "Blooms in": "Mid\u2011Summer - Mid\u2011Fall",
+        "Features": "Good for cut\u00a0flowers"
+    },
+    {
+        "Sun Needs": "Full Sun",
+        "Soil Needs": "Well-drained",
+        "Zones": "6 - 8",
+        "Height": "2 - 3 feet",
+        "Blooms in": "Late\u00a0Summer",
+        "Features": "Non-invasive"
+    },
+    {
+        "Sun Needs": "Full Sun/Partial Shade",
+        "Soil Needs": "Well-drained",
+        "Zones": "4 - 8",
+        "Height": "0.25 - 4 feet",
+        "Blooms in": "Late\u00a0Spring - Early Fall",
+        "Features": "Good for cut\u00a0flowers"
+    },
+    {
+        "Sun Needs": "Full Sun/Partial Shade",
+        "Soil Needs": "Well-drained, High fertility",
+        "Zones": "4 - 9",
+        "Height": "1.5 - 6 feet",
+        "Blooms in": "Late\u00a0Spring - Early Fall",
+        "Features": "Good for cut\u00a0flowers"
+    },
+    {
+        "Sun Needs": "Full Sun",
+        "Soil Needs": "Well-drained, High fertility",
+        "Zones": "4 - 9",
+        "Height": "0.5 - 0.75 feet",
+        "Blooms in": "Mid\u2011Summer - Mid\u2011Fall",
+        "Features": "Good for cut\u00a0flowers"
+    },
+    {
+        "Sun Needs": "Partial Shade",
+        "Soil Needs": "Well-drained",
+        "Zones": "3 - 6",
+        "Height": "3 - 4 feet",
+        "Blooms in": "Spring",
+        "Features": "Good for cut\u00a0flowers"
+    },
+    {
+        "Sun Needs": "Full Sun/Partial Shade",
+        "Soil Needs": "Well-drained",
+        "Zones": "4 - 9",
+        "Height": "2.5 - 3.5 feet",
+        "Blooms in": "Summer",
+        "Features": "Deer resistant"
+    },
+    {
+        "Sun Needs": "Full Sun/Partial Shade",
+        "Soil Needs": "Well-drained",
+        "Zones": "3 - 7",
+        "Height": "1 - 2.5 feet",
+        "Blooms in": "Early Summer - Mid\u2011Fall",
+        "Features": "Tolerates heat"
+    },
+    {
+        "Sun Needs": "Partial Shade\u2009/\u2009Full Shade",
+        "Soil Needs": "Well-drained",
+        "Zones": "3 - 9",
+        "Height": "1.5 - 3.5 feet",
+        "Blooms in": "Late Spring",
+        "Features": "Non-invasive"
+    },
+    {
+        "Sun Needs": "Full Sun",
+        "Soil Needs": "Well-drained",
+        "Zones": "4 - 8",
+        "Height": "0.5 - 0.75 feet",
+        "Blooms in": "Late Spring - Early Summer",
+        "Features": "Deer resistant"
+    },
+    {
+        "Sun Needs": "Full Sun/Partial Shade",
+        "Soil Needs": "Damp",
+        "Zones": "4 - 9",
+        "Height": "0.5 - 2 feet",
+        "Blooms in": "Mid\u2011Summer - Late Summer",
+        "Features": "Attracts bees, butterflies"
+    },
+    {
+        "Sun Needs": "Full Sun/Partial Shade",
+        "Soil Needs": "Well-drained",
+        "Zones": "8 - 10",
+        "Height": "0.5 - 1.5 feet",
+        "Blooms in": "Mid\u2011Summer - Mid\u2011Fall",
+        "Features": "Deer resistant"
+    },
+    {
+        "Sun Needs": "Full Sun/Partial Shade",
+        "Soil Needs": "Well-drained",
+        "Zones": "3 - 8",
+        "Height": "0.5 - 2 feet",
+        "Blooms in": "Early Summer - Early Fall",
+        "Features": "Good for cut\u00a0flowers"
+    },
+    {
+        "Sun Needs": "Full Sun/Partial Shade",
+        "Soil Needs": "Damp",
+        "Zones": "3 - 8",
+        "Height": "1 - 2 feet",
+        "Blooms in": "Spring",
+        "Features": "Deer resistant"
+    },
+    {
+        "Sun Needs": "Full Sun",
+        "Soil Needs": "Well-drained",
+        "Zones": "3 - 9",
+        "Height": "1 - 3 feet",
+        "Blooms in": "Late Summer - Mid\u2011Fall",
+        "Features": "Good for cut\u00a0flowers"
+    },
+    {
+        "Sun Needs": "Partial Shade",
+        "Soil Needs": "Well-drained, Damp",
+        "Zones": "3 - 9",
+        "Height": "1.5 - 4 feet",
+        "Blooms in": "Late Spring - Early Summer",
+        "Features": "Good for cut\u00a0flowers"
+    },
+    {
+        "Sun Needs": "Partial Shade\u2009/\u2009Full Shade",
+        "Soil Needs": "Well-drained",
+        "Zones": "3 - 9",
+        "Height": "0.25 - 0.75 feet",
+        "Blooms in": "Early Spring",
+        "Features": "Non-invasive"
+    },
+    {
+        "Sun Needs": "Full Sun/Partial Shade",
+        "Soil Needs": "Well-drained",
+        "Zones": "4 - 9",
+        "Height": "3 - 5 feet",
+        "Blooms in": "Late Summer - Mid\u2011Fall",
+        "Features": "Attracts bees, butterflies"
+    },
+    {
+        "Sun Needs": "Partial Shade\u2009/\u2009Full Shade",
+        "Soil Needs": "Well-drained",
+        "Zones": "2 - 11",
+        "Height": "1 - 2 feet",
+        "Blooms in": "Mid\u2011Summer - Late Summer",
+        "Features": "Attracts humingbirds"
+    },
+    {
+        "Sun Needs": "Partial Shade\u2009/\u2009Full Shade",
+        "Soil Needs": "Well-drained",
+        "Zones": "5 - 9",
+        "Height": "0.25 - 0.5 feet",
+        "Blooms in": "Late Spring - Early Summer",
+        "Features": "Tolerates heat"
+    },
+    {
+        "Sun Needs": "All Sun Types",
+        "Soil Needs": "Well-drained",
+        "Zones": "3 - 8",
+        "Height": "3 - 5 feet",
+        "Blooms in": "Summer",
+        "Features": "Non-invasive"
+    },
+    {
+        "Sun Needs": "Full Sun/Partial Shade",
+        "Soil Needs": "Well-drained",
+        "Zones": "3 - 8",
+        "Height": "1 - 2 feet",
+        "Blooms in": "Late Spring - Early Summer",
+        "Features": "Non-invasive"
+    },
+    {
+        "Sun Needs": "Full Sun",
+        "Soil Needs": "Well-drained",
+        "Zones": "4 - 9",
+        "Height": "2 - 3 feet",
+        "Blooms in": "Mid\u2011Summer - Mid\u2011Fall",
+        "Features": "Good for cut\u00a0flowers"
+    },
+    {
+        "Sun Needs": "Partial Shade\u2009/\u2009Full Shade",
+        "Soil Needs": "Well-drained, Damp",
+        "Zones": "10 - 11",
+        "Height": "1 - 2 feet",
+        "Blooms in": "Early Spring - Mid\u2011Fall",
+        "Features": "Non-invasive"
+    },
+    {
+        "Sun Needs": "Full Sun/Partial Shade",
+        "Soil Needs": "Well-drained",
+        "Zones": "9 - 11",
+        "Height": "1 - 2 feet",
+        "Blooms in": "Late Spring - Mid\u2011Fall",
+        "Features": "Good for cut\u00a0flowers"
+    },
+    {
+        "Sun Needs": "Full Sun",
+        "Soil Needs": "Well-drained",
+        "Zones": "5 - 10",
+        "Height": "0.5 - 1 feet",
+        "Blooms in": "Early Summer - Mid\u2011Fall",
+        "Features": "Good for cut\u00a0flowers"
+    },
+    {
+        "Sun Needs": "Partial Shade",
+        "Soil Needs": "Well-drained",
+        "Zones": "5 - 9",
+        "Height": "0.25 - 0.5 feet",
+        "Blooms in": "Early Spring",
+        "Features": "Non-invasive"
+    },
+    {
+        "Sun Needs": "Full Sun",
+        "Soil Needs": "Well-drained",
+        "Zones": "3 - 9",
+        "Height": "0.25 - 2 feet",
+        "Blooms in": "Spring",
+        "Features": "Good for cut\u00a0flowers"
+    },
+    {
+        "Sun Needs": "Full Sun",
+        "Soil Needs": "Well-drained",
+        "Zones": "8 - 10",
+        "Height": "2.5 - 5.5 feet",
+        "Blooms in": "Mid\u2011Summer - Early Fall",
+        "Features": "Good for cut\u00a0flowers"
+    },
+    {
+        "Sun Needs": "Full Sun",
+        "Soil Needs": "Well-drained",
+        "Zones": "2 - 11",
+        "Height": "0.8 - 3 feet",
+        "Blooms in": "Mid\u2011Summer - Early Fall",
+        "Features": "Good for cut\u00a0flowers"
+    },
+    {
+        "Sun Needs": "Full Sun/Partial Shade",
+        "Soil Needs": "Well-drained",
+        "Zones": "4 - 9",
+        "Height": "2 - 3 feet",
+        "Blooms in": "Late Spring - Early Summer",
+        "Features": "Good for cut\u00a0flowers"
+    },
+    {
+        "Sun Needs": "Full Sun/Partial Shade",
+        "Soil Needs": "Well-drained",
+        "Zones": "3 - 7",
+        "Height": "3 - 8 feet",
+        "Blooms in": "Early Summer - Early Fall",
+        "Features": "Good for cut\u00a0flowers"
+    },
+    {
+        "Sun Needs": "Full Sun",
+        "Soil Needs": "Well-drained",
+        "Zones": "8 - 9",
+        "Height": "0.5 - 1 foot",
+        "Blooms in": "Early Summer - Mid\u2011Fall",
+        "Features": "Non-invasive"
+    },
+    {
+        "Sun Needs": "Full Sun/Partial Shade",
+        "Soil Needs": "Well-drained",
+        "Zones": "8 - 10",
+        "Height": "0.75 - 2 feet",
+        "Blooms in": "Late Summer - Early Fall",
+        "Features": "Good for pressed flowers"
+    },
+    {
+        "Sun Needs": "Partial Shade",
+        "Soil Needs": "Well-drained",
+        "Zones": "3 - 8",
+        "Height": "0.5 - 1 foot",
+        "Blooms in": "Mid-Spring",
+        "Features": "Non-invasive"
+    },
+    {
+        "Sun Needs": "Partial Shade\u2009/\u2009Full Shade",
+        "Soil Needs": "Well-drained",
+        "Zones": "4 - 8",
+        "Height": "0.25 - 1.5 feet",
+        "Blooms in": "Mid-Spring - Late Spring",
+        "Features": "Deer resistant"
+    },
+    {
+        "Sun Needs": "Full Sun",
+        "Soil Needs": "Well-drained",
+        "Zones": "5 - 9",
+        "Height": "0.5 - 1 feet",
+        "Blooms in": "Mid-Spring",
+        "Features": "Tolerates heat"
+    },
+    {
+        "Sun Needs": "Full Sun",
+        "Soil Needs": "Well-drained",
+        "Zones": "4 - 9",
+        "Height": "3 - 6 feet",
+        "Blooms in": "Mid\u2011Summer - Late Summer",
+        "Features": "Attracts beneficial insects"
+    },
+    {
+        "Sun Needs": "Full Sun\u2009/\u2009Partial Shade",
+        "Soil Needs": "Well-drained",
+        "Zones": "6 - 11",
+        "Height": "2 - 4 feet",
+        "Blooms in": "Late Spring - Early Fall",
+        "Features": "Deer resistant"
+    },
+    {
+        "Sun Needs": "All Sun Types",
+        "Soil Needs": "Well-drained",
+        "Zones": "4 - 8",
+        "Height": "1 - 6 feet",
+        "Blooms in": "Late Spring - Early Summer",
+        "Features": "Good for cut\u00a0flowers"
+    },
+    {
+        "Sun Needs": "Full Sun",
+        "Soil Needs": "Well-drained",
+        "Zones": "5 - 9",
+        "Height": "0.66 - 2 feet",
+        "Blooms in": "Early Summer - Mid\u2011Fall",
+        "Features": "Good for cut\u00a0flowers"
+    },
+    {
+        "Sun Needs": "Full Sun",
+        "Soil Needs": "Well-drained",
+        "Zones": "3 - 9",
+        "Height": "2 - 4 feet",
+        "Blooms in": "Mid\u2011Summer - Early Fall",
+        "Features": "Attracts butterflies"
+    },
+    {
+        "Sun Needs": "All Sun Types",
+        "Soil Needs": "Well-drained",
+        "Zones": "4 - 9",
+        "Height": "0.3 - 0.5 foot",
+        "Blooms in": "Early Spring",
+        "Features": "Non-invasive"
+    },
+    {
+        "Sun Needs": "Partial Shade\u2009/\u2009Full Shade",
+        "Soil Needs": "Well-drained",
+        "Zones": "3 - 9",
+        "Height": "4 - 6.5 feet",
+        "Blooms in": "Summer",
+        "Features": "Non-invasive"
+    },
+    {
+        "Sun Needs": "Full Sun",
+        "Soil Needs": "Well-drained",
+        "Zones": "3 - 7",
+        "Height": "2 - 3 feet",
+        "Blooms in": "Summer",
+        "Features": "Good for cut\u00a0flowers"
+    },
+    {
+        "Sun Needs": "Full Sun",
+        "Soil Needs": "Well-drained",
+        "Zones": "7 - 10",
+        "Height": "0.5 - 2 feet",
+        "Blooms in": "Mid\u2011Summer - Mid\u2011Fall",
+        "Features": "Good for cut\u00a0flowers"
+    },
+    {
+        "Sun Needs": "All Sun Types",
+        "Soil Needs": "Well-drained",
+        "Zones": "10 - 11",
+        "Height": "1.5 - 3 feet",
+        "Blooms in": "Mid\u2011Summer - Early Fall",
+        "Features": "Attracts butterflies"
+    },
+    {
+        "Sun Needs": "Partial Shade\u2009/\u2009Full Shade",
+        "Soil Needs": "Well-drained",
+        "Zones": "5 - 8",
+        "Height": "0.25 - 0.5 foot",
+        "Blooms in": "Early Spring - Mid-Spring",
+        "Features": "Non-invasive"
+    },
+    {
+        "Sun Needs": "All Sun Types",
+        "Soil Needs": "Well-drained",
+        "Zones": "3 - 9",
+        "Height": "4 - 8 feet",
+        "Blooms in": "Mid\u2011Summer - Early Fall",
+        "Features": "Non-invasive"
+    },
+    {
+        "Sun Needs": "Partial Shade\u2009/\u2009Full Shade",
+        "Soil Needs": "Well-drained",
+        "Zones": "3 - 9",
+        "Height": "1 - feet",
+        "Blooms in": "Summer",
+        "Features": "Non-invasive"
+    },
+    {
+        "Sun Needs": "Full Sun",
+        "Soil Needs": "Well-drained",
+        "Zones": "4 - 9",
+        "Height": "1 - 3 feet",
+        "Blooms in": "Mid\u2011Summer - Early Fall",
+        "Features": "Non-invasive"
+    },
+    {
+        "Sun Needs": "Full Sun",
+        "Soil Needs": "Well-drained",
+        "Zones": "3 - 10",
+        "Height": "1 - 2 feet",
+        "Blooms in": "Mid\u2011Summer - Late Summer",
+        "Features": "Good for cut\u00a0flowers"
+    },
+    {
+        "Sun Needs": "Partial Shade\u2009/\u2009Full Shade",
+        "Soil Needs": "Well-drained",
+        "Zones": "8 - 10",
+        "Height": "0.5 - 2.5 feet",
+        "Blooms in": "Early Summer - Early Fall",
+        "Features": "Non-invasive"
+    },
+    {
+        "Sun Needs": "All Sun Types",
+        "Soil Needs": "Well-drained",
+        "Zones": "4 - 9",
+        "Height": "1 - 1.5 feet",
+        "Blooms in": "Mid-Spring - Late Spring",
+        "Features": "Non-invasive"
+    },
+    {
+        "Sun Needs": "All Sun Types",
+        "Soil Needs": "Well-drained",
+        "Zones": "3 - 9",
+        "Height": "1 - 3 feet",
+        "Blooms in": "Late Spring - Mid\u2011Summer",
+        "Features": "Non-invasive"
+    },
+    {
+        "Sun Needs": "All Sun Types",
+        "Soil Needs": "Well-drained",
+        "Zones": "3 - 7",
+        "Height": "1 - 2 feet",
+        "Blooms in": "Summer",
+        "Features": "Good for cut\u00a0flowers"
+    },
+    {
+        "Sun Needs": "Full Sun",
+        "Soil Needs": "Well-drained",
+        "Zones": "2 - 11",
+        "Height": "2 - 6 feet",
+        "Blooms in": "Mid\u2011Summer - Late Summer",
+        "Features": "Tolerates frost"
+    },
+    {
+        "Sun Needs": "Full Sun",
+        "Soil Needs": "Well-drained",
+        "Zones": "5 - 9",
+        "Height": "1 - 3 feet",
+        "Blooms in": "Summer",
+        "Features": "Good for cut\u00a0flowers"
+    },
+    {
+        "Sun Needs": "Full Sun",
+        "Soil Needs": "Well-drained",
+        "Zones": "6 - 8",
+        "Height": "1 - 2.5 feet",
+        "Blooms in": "Mid\u2011Summer - Late Summer",
+        "Features": "Non-invasive"
+    },
+    {
+        "Sun Needs": "Full Sun/Partial Shade",
+        "Soil Needs": "Well-drained",
+        "Zones": "5 - 8",
+        "Height": "0.75 - 1 foot",
+        "Blooms in": "Late Summer - Early Fall",
+        "Features": "Non-invasive"
+    },
+    {
+        "Sun Needs": "Full Sun/Partial Shade",
+        "Soil Needs": "Well-drained",
+        "Zones": "3 - 7",
+        "Height": "2 - 4 feet",
+        "Blooms in": "Early Summer - Early Fall",
+        "Features": "Attracts bees"
+    },
+    {
+        "Sun Needs": "Full Sun/Partial Shade",
+        "Soil Needs": "Well-drained",
+        "Zones": "3 - 9",
+        "Height": "0.25 - 1 foot",
+        "Blooms in": "Late Spring - Early Summer",
+        "Features": "Non-invasive"
+    },
+    {
+        "Sun Needs": "Full Sun/Partial Shade",
+        "Soil Needs": "Damp",
+        "Zones": "3 - 8",
+        "Height": "1 - 3 feet",
+        "Blooms in": "Mid\u2011Summer - Early Fall",
+        "Features": "Good for cut\u00a0flowers"
+    },
+    {
+        "Sun Needs": "Full Sun",
+        "Soil Needs": "Well-drained",
+        "Zones": "5 - 9",
+        "Height": "1 - 2 feet",
+        "Blooms in": "Summer",
+        "Features": "Tolerates heat"
+    },
+    {
+        "Sun Needs": "Full Sun/Partial Shade",
+        "Soil Needs": "Droughty",
+        "Zones": "2 - 11",
+        "Height": "1 - 2 feet",
+        "Blooms in": "Mid-Spring - Mid\u2011Fall",
+        "Features": "Tolerates heat"
+    },
+    {
+        "Sun Needs": "Full Sun",
+        "Soil Needs": "Well-drained",
+        "Zones": "4 - 7",
+        "Height": "0.5 - 3 feet",
+        "Blooms in": "Early Spring - Mid\u2011Summer",
+        "Features": "Good for cut\u00a0flowers"
+    },
+    {
+        "Sun Needs": "Full Sun",
+        "Soil Needs": "Well-drained",
+        "Zones": "5 - 8",
+        "Height": "1.5 - 3 feet",
+        "Blooms in": "Mid\u2011Summer - Late Summer",
+        "Features": "Good for cut\u00a0flowers"
+    },
+    {
+        "Sun Needs": "Full Sun",
+        "Soil Needs": "Well-drained",
+        "Zones": "2 - 9",
+        "Height": "0.25 - 0.75 foot",
+        "Blooms in": "Early Spring - Late Summer",
+        "Features": "Deer resistant"
+    },
+    {
+        "Sun Needs": "Full Sun",
+        "Soil Needs": "Well-drained",
+        "Zones": "10 - 11",
+        "Height": "0.5 - 1 feet",
+        "Blooms in": "Early Summer - Mid\u2011Fall",
+        "Features": "Non-invasive"
+    },
+    {
+        "Sun Needs": "Full Sun",
+        "Soil Needs": "Well-drained",
+        "Zones": "3 - 9",
+        "Height": "2 - 3 feet",
+        "Blooms in": "Late Spring - Early Summer",
+        "Features": "Good for cut\u00a0flowers"
+    },
+    {
+        "Sun Needs": "Partial Shade\u2009/\u2009Full Shade",
+        "Soil Needs": "Well-drained",
+        "Zones": "4 - 8",
+        "Height": "1 - 2 feet",
+        "Blooms in": "Late Spring - Early Summer",
+        "Features": "Non-invasive"
+    },
+    {
+        "Sun Needs": "Full Sun\u2009/\u2009Partial Shade",
+        "Soil Needs": "Well-drained",
+        "Zones": "4 - 8",
+        "Height": "1 - 2 feet",
+        "Blooms in": "Mid\u2011Summer",
+        "Features": "Tolerates heat"
+    },
+    {
+        "Sun Needs": "Full Sun/Partial Shade",
+        "Soil Needs": "Damp",
+        "Zones": "4 - 9",
+        "Height": "1 - 2.5 feet",
+        "Blooms in": "Mid\u2011Summer - Mid\u2011Fall",
+        "Features": "Non-invasive"
+    },
+    {
+        "Sun Needs": "Full Sun",
+        "Soil Needs": "Well-drained",
+        "Zones": "9 - 10",
+        "Height": "1 - 3.5 feet",
+        "Blooms in": "Mid\u2011Summer - Mid\u2011Fall",
+        "Features": "Good for cut\u00a0flowers"
+    },
+    {
+        "Sun Needs": "Full Sun",
+        "Soil Needs": "Well-drained",
+        "Zones": "3 - 7",
+        "Height": "0.5 - 1 foot",
+        "Blooms in": "Late Spring - Early Summer",
+        "Features": "Deer resistant"
+    },
+    {
+        "Sun Needs": "Partial Shade",
+        "Soil Needs": "Well-drained",
+        "Zones": "3 - 9",
+        "Height": "0.25 - 0.5 feet",
+        "Blooms in": "Early Spring",
+        "Features": "Non-invasive"
+    }
+]
